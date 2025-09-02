@@ -65,17 +65,60 @@
   },
   "status": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Solicitado"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Em produção"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [ ]
+  "burgers": [
+    {
+      "id": "2c49",
+      "nome": "Rafa",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "1908",
+      "nome": "Sara",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "24a0",
+      "nome": "Talita",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "6c2b",
+      "nome": "rafa",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    }
+  ]
 }
